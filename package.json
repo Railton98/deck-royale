@@ -2,7 +2,7 @@
   "name": "deck-royale",
   "description": "Keepi Front-End challenge. A SPA using Vue that generates random Clash Royale decks using clashapi.",
   "version": "1.0.0",
-  "author": "Keepi Team <webmaster@keepi.media>",
+  "author": "Railton's Teck <railtonleal98@gmail.com>",
   "license": "MIT",
   "private": true,
   "scripts": {
